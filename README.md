@@ -10,14 +10,14 @@ Seja bem-vindo ao meu perfil! 👋 Sou um estudante apaixonado pelo mundo da Eng
 
 - 👨‍🎓 **Graduação**: Engenharia de Software na PUC Minas.
 - 🌱 **Atividades Atuais**: Foco em aprimorar meus conhecimentos em desenvolvimento de software, design de sistemas e metodologias ágeis.
-- 💼 **Experiência Profissional**: [Detalhes sobre experiências anteriores ou projetos relevantes, se aplicável]
+- 💼 **Experiência Profissional**: Experiência com robótica pela Escola de Programação Buddys e equipe do Colégio Nossa Senhora das Dores.
 
 ## Habilidades
 
-- **Linguagens de Programação:** Java, Python, C#
-- **Desenvolvimento Web:** HTML, CSS, JavaScript, React
-- **Banco de Dados:** MySQL, MongoDB
-- **Metodologias:** Scrum, Kanban
+- **Linguagens de Programação:** C, Python
+- **Desenvolvimento Web:** HTML, CSS, JavaScript
+- **Banco de Dados:** 
+- **Metodologias:** Scrum
 - **Ferramentas:** Git, VS Code, Eclipse
 - *[Adicione outras habilidades relevantes]*
 
@@ -37,7 +37,7 @@ Breve descrição do projeto e suas tecnologias principais.
 
 ## Contato
 
-- **E-mail:** [Seu E-mail]
+- **E-mail:** gabrilpdiniz02@gmail.com
 - **Twitter:** [Seu Perfil no Twitter]
 - **LinkedIn:** [Seu Perfil no LinkedIn]
 
