@@ -46,7 +46,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Gabriel</code>, tenho 18 anos e moro em BH. Atualmente sou <code>estudante</code> no curso de Engenharia de Software e também nos cursos de Engenharia de Software da <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i>
+<i><b>Olá</b> :wave:, sou o <code>Gabriel</code>, tenho 18 anos e moro em BH. Atualmente sou <code>estudante</code> no curso de Engenharia de Software da <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i>
 </div>
 
 -----
